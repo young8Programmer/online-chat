@@ -1,4 +1,5 @@
 import { Controller, Get, Post, Body } from '@nestjs/common';
+// installation qo'llanmasi yaratildi
 import { ChatService } from './chat.service';
 
 @Controller('chat')
