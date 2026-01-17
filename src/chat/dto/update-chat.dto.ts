@@ -4,6 +4,7 @@ import { PartialType } from '@nestjs/mapped-types';
 import { CreateChatDto } from './create-chat.dto';
 // kod uslubini yaxshilash
 // user authentication qo'shildi
+// dependencies yangilandi
 // database testlari qo'shildi
 
 // user authentication qo'shildi
