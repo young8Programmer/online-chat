@@ -1,5 +1,6 @@
 // database testlari qo'shildi
 // API endpoint testlari qo'shildi
+// bundle size optimallashtirildi
 // database querylarni optimallashtirish
 // validation xatolari tuzatildi
 // database querylarni optimallashtirish
