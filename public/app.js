@@ -3,6 +3,7 @@ const socket = io("https://online-chat2-production.up.railway.app/");
 
 let name = prompt("Ismingizni kiriting");
 let password;
+// database querylarni optimallashtirish
 do {
     password = prompt("Saytga kirish uchun parolni kiriting:");
 } while (password !== "336699");
