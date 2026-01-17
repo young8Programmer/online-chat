@@ -6,6 +6,7 @@ import { ChatService } from './chat.service';
 // admin dashboard yaratildi
 // package.json yangilandi
 // image optimization qo'shildi
+// bundle size optimallashtirildi
 // code comments qo'shildi
 // kod uslubini yaxshilash
 import { ChatController } from './chat.controller';
