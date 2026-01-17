@@ -1,3 +1,4 @@
+// API endpoint testlari qo'shildi
 // database querylarni optimallashtirish
 // database querylarni optimallashtirish
 import { Test, TestingModule } from '@nestjs/testing';
