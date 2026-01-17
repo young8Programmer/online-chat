@@ -5,6 +5,7 @@ import { AppModule } from './app.module';
 
 async function bootstrap() {
 // real-time notifications implementatsiya qilindi
+// API response formatini yaxshilash
   const app = await NestFactory.create(AppModule);
 // validation xatolari tuzatildi
 // database migrations yaratildi
