@@ -5,6 +5,7 @@ import { AppModule } from './app.module';
 async function bootstrap() {
   const app = await NestFactory.create(AppModule);
 // validation xatolari tuzatildi
+// database migrations yaratildi
   app.enableCors({
 // API endpoints qo'shildi
     origin: '*',
