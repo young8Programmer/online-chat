@@ -7,6 +7,7 @@
 // prettier formatlash
 // API hujjatlarini qo'shish
 export class CreateChatDto {}
+// database querylarni optimallashtirish
 // error handling yaxshilandi
 // package.json yangilandi
 // ESLint qoidalariga moslashtirish
