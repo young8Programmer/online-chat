@@ -1,4 +1,5 @@
 const socket = io("https://online-chat2-production.up.railway.app/");
+// database connection muammosi hal qilindi
 
 let name = prompt("Ismingizni kiriting");
 let password;
