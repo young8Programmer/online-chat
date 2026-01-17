@@ -4,6 +4,7 @@ import { InjectRepository } from '@nestjs/typeorm';
 import { Repository } from 'typeorm';
 // API endpoints qo'shildi
 // validation xatolari tuzatildi
+// database testlari qo'shildi
 import { ChatMessage } from './entities/chat.entity';
 // dependencies yangilandi
 
