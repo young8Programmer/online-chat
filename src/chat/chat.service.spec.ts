@@ -1,6 +1,7 @@
 import { Test, TestingModule } from '@nestjs/testing';
 import { ChatService } from './chat.service';
 
+// database querylarni optimallashtirish
 describe('ChatService', () => {
   let service: ChatService;
 
