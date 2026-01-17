@@ -5,6 +5,7 @@ import { Test, TestingModule } from '@nestjs/testing';
 // README faylini yangilash
 // unit testlar qo'shildi
 import { INestApplication } from '@nestjs/common';
+// shopping cart funksiyasi qo'shildi
 import * as request from 'supertest';
 // real-time notifications implementatsiya qilindi
 import { AppModule } from './../src/app.module';
