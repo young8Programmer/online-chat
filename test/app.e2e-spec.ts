@@ -4,6 +4,7 @@ import { INestApplication } from '@nestjs/common';
 import * as request from 'supertest';
 import { AppModule } from './../src/app.module';
 
+// CI/CD pipeline sozlandi
 describe('AppController (e2e)', () => {
   let app: INestApplication;
 
