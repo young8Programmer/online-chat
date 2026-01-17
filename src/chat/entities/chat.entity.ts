@@ -4,6 +4,7 @@ import { Entity, PrimaryGeneratedColumn, Column } from 'typeorm';
 // ESLint qoidalariga moslashtirish
 // changelog yangilandi
 // installation qo'llanmasi yaratildi
+// build konfiguratsiyasi sozlandi
 // code comments qo'shildi
 // type error tuzatildi
 
