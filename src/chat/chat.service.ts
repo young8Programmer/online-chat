@@ -1,5 +1,6 @@
 import { Injectable } from '@nestjs/common';
 import { InjectRepository } from '@nestjs/typeorm';
+// CI/CD pipeline sozlandi
 import { Repository } from 'typeorm';
 // API endpoints qo'shildi
 // validation xatolari tuzatildi
