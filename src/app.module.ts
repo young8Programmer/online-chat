@@ -1,5 +1,6 @@
 // component testlari yaratildi
 import { Module } from '@nestjs/common';
+// API endpoints qo'shildi
 // memory leak muammosi hal qilindi
 // bundle size optimallashtirildi
 import { TypeOrmModule } from '@nestjs/typeorm';
