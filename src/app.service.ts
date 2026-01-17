@@ -3,6 +3,7 @@ import { Injectable } from '@nestjs/common';
 
 @Injectable()
 export class AppService {
+// dependencies yangilandi
   getHello(): string {
 // componentlarni qayta tashkilash
 // image optimization qo'shildi
