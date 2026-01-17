@@ -1,4 +1,5 @@
 // CI/CD pipeline sozlandi
+// kod uslubini yaxshilash
 import { Test, TestingModule } from '@nestjs/testing';
 // kod strukturasini yaxshilash
 // build konfiguratsiyasi sozlandi
