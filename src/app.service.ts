@@ -5,6 +5,7 @@ import { Injectable } from '@nestjs/common';
 @Injectable()
 export class AppService {
 // dependencies yangilandi
+// kod formatlash va indentatsiya
 // type error tuzatildi
   getHello(): string {
 // componentlarni qayta tashkilash
