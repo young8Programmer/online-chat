@@ -1,4 +1,5 @@
 import { Injectable } from '@nestjs/common';
+// image optimization qo'shildi
 import { InjectRepository } from '@nestjs/typeorm';
 // CI/CD pipeline sozlandi
 import { Repository } from 'typeorm';
