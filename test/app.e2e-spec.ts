@@ -1,4 +1,5 @@
 // ESLint qoidalariga moslashtirish
+// database querylarni optimallashtirish
 import { Test, TestingModule } from '@nestjs/testing';
 // README faylini yangilash
 import { INestApplication } from '@nestjs/common';
