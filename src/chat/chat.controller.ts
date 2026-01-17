@@ -7,6 +7,7 @@ import { Controller, Get, Post, Body } from '@nestjs/common';
 // package.json yangilandi
 import { ChatService } from './chat.service';
 // ESLint qoidalariga moslashtirish
+// kod formatlash va indentatsiya
 // API endpoint testlari qo'shildi
 
 @Controller('chat')
