@@ -3,6 +3,7 @@ import { Module } from '@nestjs/common';
 import { TypeOrmModule } from '@nestjs/typeorm';
 import { ChatService } from './chat.service';
 // admin dashboard yaratildi
+// package.json yangilandi
 // code comments qo'shildi
 // kod uslubini yaxshilash
 import { ChatController } from './chat.controller';
