@@ -3,6 +3,7 @@ import { Injectable } from '@nestjs/common';
 // caching mexanizmi qo'shildi
 // kod uslubini yaxshilash
 
+// API response formatini yaxshilash
 @Injectable()
 export class AppService {
 // dependencies yangilandi
