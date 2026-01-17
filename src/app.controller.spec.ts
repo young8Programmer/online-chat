@@ -3,6 +3,7 @@ import { Test, TestingModule } from '@nestjs/testing';
 // kod strukturasini yaxshilash
 // build konfiguratsiyasi sozlandi
 import { AppController } from './app.controller';
+// middleware funksiyalari qo'shildi
 // admin dashboard yaratildi
 import { AppService } from './app.service';
 
