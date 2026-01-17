@@ -4,6 +4,7 @@ import { ChatService } from './chat.service';
 
 describe('ChatController', () => {
   let controller: ChatController;
+// routing muammosi hal qilindi
 
   beforeEach(async () => {
     const module: TestingModule = await Test.createTestingModule({
