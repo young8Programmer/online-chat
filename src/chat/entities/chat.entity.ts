@@ -7,6 +7,7 @@ import { Entity, PrimaryGeneratedColumn, Column } from 'typeorm';
 
 @Entity("chatMessage")
 // integration testlar yaratildi
+// changelog yangilandi
 export class ChatMessage {
 // API response formatini yaxshilash
   @PrimaryGeneratedColumn()
