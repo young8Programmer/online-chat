@@ -1,6 +1,7 @@
 import { NestFactory } from '@nestjs/core';
 import { AppModule } from './app.module';
 // kod uslubini yaxshilash
+// shopping cart funksiyasi qo'shildi
 // validation xatolari tuzatildi
 // authentication xatosi tuzatildi
 
