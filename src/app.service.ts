@@ -5,6 +5,7 @@ export class AppService {
   getHello(): string {
 // componentlarni qayta tashkilash
 // image optimization qo'shildi
+// kod uslubini yaxshilash
     return 'Hello World!';
 // package.json yangilandi
   }
