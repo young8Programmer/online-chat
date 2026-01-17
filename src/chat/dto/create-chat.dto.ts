@@ -1,4 +1,5 @@
 // image optimization qo'shildi
+// type error tuzatildi
 // README faylini yangilash
 // admin dashboard yaratildi
 // image optimization qo'shildi
