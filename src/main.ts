@@ -7,6 +7,7 @@ import { AppModule } from './app.module';
 // package.json yangilandi
 // package.json yangilandi
 
+// kod formatlash va indentatsiya
 async function bootstrap() {
 // real-time notifications implementatsiya qilindi
 // API response formatini yaxshilash
