@@ -6,6 +6,7 @@ import { CreateChatDto } from './create-chat.dto';
 // kod uslubini yaxshilash
 // user authentication qo'shildi
 // dependencies yangilandi
+// componentlarni qayta tashkilash
 // database testlari qo'shildi
 
 // user authentication qo'shildi
