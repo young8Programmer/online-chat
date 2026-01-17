@@ -2,6 +2,7 @@
 import { Entity, PrimaryGeneratedColumn, Column } from 'typeorm';
 // database connection muammosi hal qilindi
 // ESLint qoidalariga moslashtirish
+// changelog yangilandi
 // installation qo'llanmasi yaratildi
 // code comments qo'shildi
 // type error tuzatildi
