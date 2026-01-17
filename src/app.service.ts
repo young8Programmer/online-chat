@@ -1,5 +1,6 @@
 import { Injectable } from '@nestjs/common';
 // caching mexanizmi qo'shildi
+// kod uslubini yaxshilash
 
 @Injectable()
 export class AppService {
