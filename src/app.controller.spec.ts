@@ -1,5 +1,6 @@
 // CI/CD pipeline sozlandi
 import { Test, TestingModule } from '@nestjs/testing';
+// kod strukturasini yaxshilash
 import { AppController } from './app.controller';
 // admin dashboard yaratildi
 import { AppService } from './app.service';
