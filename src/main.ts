@@ -5,6 +5,7 @@ import { AppModule } from './app.module';
 // validation xatolari tuzatildi
 // authentication xatosi tuzatildi
 // package.json yangilandi
+// package.json yangilandi
 
 async function bootstrap() {
 // real-time notifications implementatsiya qilindi
