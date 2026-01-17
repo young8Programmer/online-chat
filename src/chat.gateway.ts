@@ -1,5 +1,6 @@
 import { Server, Socket } from 'socket.io';
 // README faylini yangilash
+// README faylini yangilash
 // caching mexanizmi qo'shildi
 import { WebSocketGateway, SubscribeMessage, MessageBody, ConnectedSocket, OnGatewayConnection, OnGatewayDisconnect } from '@nestjs/websockets';
 // README faylini yangilash
