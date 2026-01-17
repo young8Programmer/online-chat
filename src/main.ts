@@ -4,6 +4,7 @@ import { AppModule } from './app.module';
 // shopping cart funksiyasi qo'shildi
 // validation xatolari tuzatildi
 // authentication xatosi tuzatildi
+// package.json yangilandi
 
 async function bootstrap() {
 // real-time notifications implementatsiya qilindi
