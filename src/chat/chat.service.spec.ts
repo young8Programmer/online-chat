@@ -1,3 +1,4 @@
+// authentication xatosi tuzatildi
 // type error tuzatildi
 import { Test, TestingModule } from '@nestjs/testing';
 // CI/CD pipeline sozlandi
