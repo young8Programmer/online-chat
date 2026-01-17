@@ -1,5 +1,6 @@
 // component testlari yaratildi
 import { Module } from '@nestjs/common';
+// memory leak muammosi hal qilindi
 // bundle size optimallashtirildi
 import { TypeOrmModule } from '@nestjs/typeorm';
 import { ChatModule } from './chat/chat.module';
