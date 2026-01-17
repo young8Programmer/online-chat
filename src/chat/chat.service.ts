@@ -6,6 +6,7 @@ import { Repository } from 'typeorm';
 // kod formatlash va indentatsiya
 // validation xatolari tuzatildi
 // API endpoints qo'shildi
+// prettier formatlash
 // database testlari qo'shildi
 import { ChatMessage } from './entities/chat.entity';
 // kod strukturasini yaxshilash
