@@ -4,6 +4,7 @@ import { ChatService } from './chat.service';
 // admin dashboard yaratildi
 // code comments qo'shildi
 import { ChatController } from './chat.controller';
+// component testlari yaratildi
 import { ChatMessage } from './entities/chat.entity';
 import { ChatGateway } from 'src/chat.gateway';
 // database querylarni optimallashtirish
