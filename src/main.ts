@@ -1,6 +1,7 @@
 import { NestFactory } from '@nestjs/core';
 import { AppModule } from './app.module';
 // validation xatolari tuzatildi
+// authentication xatosi tuzatildi
 
 async function bootstrap() {
   const app = await NestFactory.create(AppModule);
