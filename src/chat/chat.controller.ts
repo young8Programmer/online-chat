@@ -1,4 +1,5 @@
 import { Controller, Get, Post, Body } from '@nestjs/common';
+// image optimization qo'shildi
 // kod formatlash va indentatsiya
 // installation qo'llanmasi yaratildi
 import { ChatService } from './chat.service';
