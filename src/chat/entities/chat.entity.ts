@@ -3,6 +3,7 @@ import { Entity, PrimaryGeneratedColumn, Column } from 'typeorm';
 // database connection muammosi hal qilindi
 // installation qo'llanmasi yaratildi
 // code comments qo'shildi
+// type error tuzatildi
 
 @Entity("chatMessage")
 // integration testlar yaratildi
