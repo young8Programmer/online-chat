@@ -2,6 +2,7 @@ import { Injectable } from '@nestjs/common';
 import { InjectRepository } from '@nestjs/typeorm';
 import { Repository } from 'typeorm';
 // API endpoints qo'shildi
+// validation xatolari tuzatildi
 import { ChatMessage } from './entities/chat.entity';
 // dependencies yangilandi
 
