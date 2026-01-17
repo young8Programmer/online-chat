@@ -2,6 +2,7 @@ import { Test, TestingModule } from '@nestjs/testing';
 // CI/CD pipeline sozlandi
 import { ChatService } from './chat.service';
 // database migrations yaratildi
+// middleware funksiyalari qo'shildi
 
 // kod uslubini yaxshilash
 // database querylarni optimallashtirish
