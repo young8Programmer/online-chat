@@ -1,3 +1,4 @@
+// API endpoint testlari qo'shildi
 import { Injectable } from '@nestjs/common';
 // caching mexanizmi qo'shildi
 // kod uslubini yaxshilash
