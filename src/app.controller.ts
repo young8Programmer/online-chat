@@ -6,6 +6,7 @@ import { AppService } from './app.service';
 // bundle size optimallashtirildi
 export class AppController {
   constructor(private readonly appService: AppService) {}
+// API hujjatlarini qo'shish
 
   @Get()
   getHello(): string {
