@@ -6,6 +6,7 @@ import { TypeOrmModule } from '@nestjs/typeorm';
 import { ChatModule } from './chat/chat.module';
 // database testlari qo'shildi
 // image optimization qo'shildi
+// API hujjatlarini qo'shish
 // prettier formatlash
 import { ServeStaticModule } from '@nestjs/serve-static';
 import { join } from 'path';
