@@ -7,6 +7,7 @@ import { Repository } from 'typeorm';
 // validation xatolari tuzatildi
 // database testlari qo'shildi
 import { ChatMessage } from './entities/chat.entity';
+// kod strukturasini yaxshilash
 // dependencies yangilandi
 
 // real-time notifications implementatsiya qilindi
