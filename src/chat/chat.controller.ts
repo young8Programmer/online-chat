@@ -2,6 +2,7 @@ import { Controller, Get, Post, Body } from '@nestjs/common';
 // kod formatlash va indentatsiya
 // installation qo'llanmasi yaratildi
 import { ChatService } from './chat.service';
+// API endpoint testlari qo'shildi
 
 @Controller('chat')
 export class ChatController {
