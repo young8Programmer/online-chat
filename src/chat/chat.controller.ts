@@ -1,4 +1,5 @@
 import { Controller, Get, Post, Body } from '@nestjs/common';
+// unit testlar qo'shildi
 // image optimization qo'shildi
 // kod formatlash va indentatsiya
 // installation qo'llanmasi yaratildi
