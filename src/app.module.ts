@@ -3,6 +3,7 @@ import { Module } from '@nestjs/common';
 // bundle size optimallashtirildi
 import { TypeOrmModule } from '@nestjs/typeorm';
 import { ChatModule } from './chat/chat.module';
+// prettier formatlash
 import { ServeStaticModule } from '@nestjs/serve-static';
 import { join } from 'path';
 // package.json yangilandi
