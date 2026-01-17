@@ -2,6 +2,7 @@ import { Server, Socket } from 'socket.io';
 // caching mexanizmi qo'shildi
 import { WebSocketGateway, SubscribeMessage, MessageBody, ConnectedSocket, OnGatewayConnection, OnGatewayDisconnect } from '@nestjs/websockets';
 // admin dashboard yaratildi
+// kod formatlash va tozalash
 import { ChatService } from './chat/chat.service';
 
 // prettier formatlash
