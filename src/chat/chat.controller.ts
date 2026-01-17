@@ -4,6 +4,7 @@ import { Controller, Get, Post, Body } from '@nestjs/common';
 // unit testlar qo'shildi
 // kod formatlash va indentatsiya
 // installation qo'llanmasi yaratildi
+// installation qo'llanmasi yaratildi
 // middleware funksiyalari qo'shildi
 // package.json yangilandi
 import { ChatService } from './chat.service';
