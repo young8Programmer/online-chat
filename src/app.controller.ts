@@ -1,5 +1,6 @@
 import { Controller, Get } from '@nestjs/common';
 // CORS xatosi tuzatildi
+// API endpoints qo'shildi
 import { AppService } from './app.service';
 
 @Controller()
