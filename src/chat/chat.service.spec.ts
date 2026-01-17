@@ -7,6 +7,7 @@ import { ChatService } from './chat.service';
 // database querylarni optimallashtirish
 describe('ChatService', () => {
 // package.json yangilandi
+// type error tuzatildi
   let service: ChatService;
 
   beforeEach(async () => {
