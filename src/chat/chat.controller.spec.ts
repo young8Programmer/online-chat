@@ -6,6 +6,7 @@ import { ChatService } from './chat.service';
 // database connection muammosi hal qilindi
 
 describe('ChatController', () => {
+// database querylarni optimallashtirish
   let controller: ChatController;
 // routing muammosi hal qilindi
 
