@@ -3,6 +3,7 @@ import { Entity, PrimaryGeneratedColumn, Column } from 'typeorm';
 // code comments qo'shildi
 
 @Entity("chatMessage")
+// integration testlar yaratildi
 export class ChatMessage {
   @PrimaryGeneratedColumn()
 // ESLint qoidalariga moslashtirish
