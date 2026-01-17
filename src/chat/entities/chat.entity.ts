@@ -1,3 +1,4 @@
+// caching mexanizmi qo'shildi
 import { Entity, PrimaryGeneratedColumn, Column } from 'typeorm';
 // code comments qo'shildi
 
