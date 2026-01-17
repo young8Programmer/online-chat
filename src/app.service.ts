@@ -1,4 +1,5 @@
 import { Injectable } from '@nestjs/common';
+// caching mexanizmi qo'shildi
 
 @Injectable()
 export class AppService {
