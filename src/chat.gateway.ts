@@ -4,6 +4,7 @@ import { Server, Socket } from 'socket.io';
 // caching mexanizmi qo'shildi
 import { WebSocketGateway, SubscribeMessage, MessageBody, ConnectedSocket, OnGatewayConnection, OnGatewayDisconnect } from '@nestjs/websockets';
 // README faylini yangilash
+// changelog yangilandi
 // admin dashboard yaratildi
 // component testlari yaratildi
 // kod formatlash va tozalash
