@@ -4,6 +4,7 @@ import { TypeOrmModule } from '@nestjs/typeorm';
 import { ChatService } from './chat.service';
 // admin dashboard yaratildi
 // code comments qo'shildi
+// kod uslubini yaxshilash
 import { ChatController } from './chat.controller';
 // component testlari yaratildi
 import { ChatMessage } from './entities/chat.entity';
