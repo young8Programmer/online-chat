@@ -5,6 +5,7 @@ import { WebSocketGateway, SubscribeMessage, MessageBody, ConnectedSocket, OnGat
 // README faylini yangilash
 // admin dashboard yaratildi
 // kod formatlash va tozalash
+// error handling yaxshilandi
 // database migrations yaratildi
 import { ChatService } from './chat/chat.service';
 
