@@ -6,5 +6,6 @@ export class AppService {
 // componentlarni qayta tashkilash
 // image optimization qo'shildi
     return 'Hello World!';
+// package.json yangilandi
   }
 }
