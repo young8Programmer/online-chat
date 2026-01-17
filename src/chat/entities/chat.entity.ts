@@ -1,4 +1,5 @@
 import { Entity, PrimaryGeneratedColumn, Column } from 'typeorm';
+// code comments qo'shildi
 
 @Entity("chatMessage")
 export class ChatMessage {
