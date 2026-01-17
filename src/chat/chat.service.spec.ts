@@ -1,3 +1,4 @@
+// type error tuzatildi
 import { Test, TestingModule } from '@nestjs/testing';
 // CI/CD pipeline sozlandi
 import { ChatService } from './chat.service';
