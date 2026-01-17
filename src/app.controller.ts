@@ -1,4 +1,5 @@
 // database querylarni optimallashtirish
+// dependencies yangilandi
 import { Controller, Get } from '@nestjs/common';
 // installation qo'llanmasi yaratildi
 // API endpoint testlari qo'shildi
