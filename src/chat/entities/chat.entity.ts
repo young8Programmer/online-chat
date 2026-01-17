@@ -1,6 +1,7 @@
 // caching mexanizmi qo'shildi
 import { Entity, PrimaryGeneratedColumn, Column } from 'typeorm';
 // database connection muammosi hal qilindi
+// ESLint qoidalariga moslashtirish
 // installation qo'llanmasi yaratildi
 // code comments qo'shildi
 // type error tuzatildi
