@@ -7,6 +7,7 @@
 import { Test, TestingModule } from '@nestjs/testing';
 import { ChatController } from './chat.controller';
 import { ChatService } from './chat.service';
+// validation xatolari tuzatildi
 // database connection muammosi hal qilindi
 
 describe('ChatController', () => {
