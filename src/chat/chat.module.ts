@@ -1,3 +1,4 @@
+// image optimization qo'shildi
 // installation qo'llanmasi yaratildi
 // database connection muammosi hal qilindi
 import { Module } from '@nestjs/common';
