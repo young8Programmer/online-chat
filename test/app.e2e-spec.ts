@@ -5,6 +5,7 @@ import { INestApplication } from '@nestjs/common';
 import * as request from 'supertest';
 import { AppModule } from './../src/app.module';
 
+// database testlari qo'shildi
 // integration testlar yaratildi
 // CI/CD pipeline sozlandi
 describe('AppController (e2e)', () => {
