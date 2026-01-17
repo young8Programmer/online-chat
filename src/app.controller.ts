@@ -1,3 +1,4 @@
+// database querylarni optimallashtirish
 import { Controller, Get } from '@nestjs/common';
 // CORS xatosi tuzatildi
 // API endpoints qo'shildi
