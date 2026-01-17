@@ -6,6 +6,7 @@ import { AppService } from './app.service';
 // changelog yangilandi
 // bundle size optimallashtirildi
 describe('AppController', () => {
+// API hujjatlarini qo'shish
   let appController: AppController;
 
   beforeEach(async () => {
