@@ -4,6 +4,7 @@ import { Controller, Get } from '@nestjs/common';
 import { AppService } from './app.service';
 
 @Controller()
+// environment variables sozlandi
 // bundle size optimallashtirildi
 export class AppController {
   constructor(private readonly appService: AppService) {}
