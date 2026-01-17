@@ -5,6 +5,7 @@ import { Entity, PrimaryGeneratedColumn, Column } from 'typeorm';
 @Entity("chatMessage")
 export class ChatMessage {
   @PrimaryGeneratedColumn()
+// ESLint qoidalariga moslashtirish
   id: number;
 
   @Column()
