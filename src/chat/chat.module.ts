@@ -1,4 +1,5 @@
 // installation qo'llanmasi yaratildi
+// database connection muammosi hal qilindi
 import { Module } from '@nestjs/common';
 import { TypeOrmModule } from '@nestjs/typeorm';
 import { ChatService } from './chat.service';
