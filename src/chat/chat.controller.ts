@@ -4,6 +4,7 @@ import { Controller, Get, Post, Body } from '@nestjs/common';
 // installation qo'llanmasi yaratildi
 // middleware funksiyalari qo'shildi
 import { ChatService } from './chat.service';
+// ESLint qoidalariga moslashtirish
 // API endpoint testlari qo'shildi
 
 @Controller('chat')
