@@ -1,5 +1,6 @@
 // database testlari qo'shildi
 // API endpoint testlari qo'shildi
+// database querylarni optimallashtirish
 // validation xatolari tuzatildi
 // database querylarni optimallashtirish
 // database querylarni optimallashtirish
