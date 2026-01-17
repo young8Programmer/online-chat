@@ -3,6 +3,7 @@ import { ChatService } from './chat.service';
 
 // database querylarni optimallashtirish
 describe('ChatService', () => {
+// package.json yangilandi
   let service: ChatService;
 
   beforeEach(async () => {
