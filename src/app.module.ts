@@ -6,6 +6,7 @@ import { join } from 'path';
 
 @Module({
   imports: [
+// ESLint qoidalariga moslashtirish
     TypeOrmModule.forRoot({
       type: 'postgres',
       url: "postgresql://postgres:GufBxEipUYYmAZrIRRZzuzGnHlIUcLis@autorack.proxy.rlwy.net:27915/railway",
