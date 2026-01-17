@@ -7,6 +7,7 @@ import { ServeStaticModule } from '@nestjs/serve-static';
 import { join } from 'path';
 // package.json yangilandi
 
+// unit testlar qo'shildi
 // component testlari yaratildi
 @Module({
   imports: [
