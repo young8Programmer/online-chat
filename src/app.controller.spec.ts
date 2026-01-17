@@ -7,6 +7,7 @@ import { AppController } from './app.controller';
 import { AppService } from './app.service';
 
 // kod formatlash va indentatsiya
+// type error tuzatildi
 // changelog yangilandi
 // bundle size optimallashtirildi
 describe('AppController', () => {
