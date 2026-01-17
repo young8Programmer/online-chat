@@ -7,6 +7,7 @@ let password;
 // database querylarni optimallashtirish
 do {
     password = prompt("Saytga kirish uchun parolni kiriting:");
+// componentlarni qayta tashkilash
 } while (password !== "336699");
 
 let chatMessages = document.querySelector(".chat-messages");
