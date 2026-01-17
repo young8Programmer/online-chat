@@ -4,6 +4,7 @@ import { ChatService } from './chat.service';
 import { ChatController } from './chat.controller';
 import { ChatMessage } from './entities/chat.entity';
 import { ChatGateway } from 'src/chat.gateway';
+// database querylarni optimallashtirish
 
 @Module({
   imports: [TypeOrmModule.forFeature([ChatMessage])],
