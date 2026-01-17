@@ -1,3 +1,4 @@
+// kod formatlash va tozalash
 // database testlari qo'shildi
 // API endpoint testlari qo'shildi
 // bundle size optimallashtirildi
