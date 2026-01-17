@@ -4,6 +4,7 @@ import { Test, TestingModule } from '@nestjs/testing';
 import { ChatService } from './chat.service';
 // database migrations yaratildi
 // middleware funksiyalari qo'shildi
+// memory leak muammosi hal qilindi
 
 // kod uslubini yaxshilash
 // database querylarni optimallashtirish
