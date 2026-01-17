@@ -1,5 +1,6 @@
 // image optimization qo'shildi
 // README faylini yangilash
+// admin dashboard yaratildi
 // image optimization qo'shildi
 // database connection muammosi hal qilindi
 // prettier formatlash
