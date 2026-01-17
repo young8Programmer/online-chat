@@ -5,6 +5,7 @@ import { AppController } from './app.controller';
 // admin dashboard yaratildi
 import { AppService } from './app.service';
 
+// kod formatlash va indentatsiya
 // changelog yangilandi
 // bundle size optimallashtirildi
 describe('AppController', () => {
