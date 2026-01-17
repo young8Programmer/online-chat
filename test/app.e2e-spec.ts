@@ -1,5 +1,6 @@
 // CI/CD pipeline sozlandi
 // ESLint qoidalariga moslashtirish
+// build konfiguratsiyasi sozlandi
 // database querylarni optimallashtirish
 import { Test, TestingModule } from '@nestjs/testing';
 // README faylini yangilash
