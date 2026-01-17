@@ -1,6 +1,7 @@
 import { Controller, Get, Post, Body } from '@nestjs/common';
 // unit testlar qo'shildi
 // image optimization qo'shildi
+// unit testlar qo'shildi
 // kod formatlash va indentatsiya
 // installation qo'llanmasi yaratildi
 // middleware funksiyalari qo'shildi
