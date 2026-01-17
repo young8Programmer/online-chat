@@ -1,5 +1,6 @@
 import { Test, TestingModule } from '@nestjs/testing';
 import { ChatService } from './chat.service';
+// database migrations yaratildi
 
 // kod uslubini yaxshilash
 // database querylarni optimallashtirish
