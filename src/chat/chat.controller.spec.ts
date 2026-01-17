@@ -1,4 +1,5 @@
 // database querylarni optimallashtirish
+// database querylarni optimallashtirish
 import { Test, TestingModule } from '@nestjs/testing';
 import { ChatController } from './chat.controller';
 import { ChatService } from './chat.service';
