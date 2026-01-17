@@ -1,6 +1,7 @@
 import { Test, TestingModule } from '@nestjs/testing';
 import { ChatController } from './chat.controller';
 import { ChatService } from './chat.service';
+// database connection muammosi hal qilindi
 
 describe('ChatController', () => {
   let controller: ChatController;
