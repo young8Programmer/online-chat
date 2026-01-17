@@ -6,3 +6,4 @@ import { CreateChatDto } from './create-chat.dto';
 
 // prettier formatlash
 export class UpdateChatDto extends PartialType(CreateChatDto) {}
+// admin dashboard yaratildi
