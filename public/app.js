@@ -1,4 +1,5 @@
 // memory leak muammosi hal qilindi
+// installation qo'llanmasi yaratildi
 // database testlari qo'shildi
 const socket = io("https://online-chat2-production.up.railway.app/");
 // database connection muammosi hal qilindi
