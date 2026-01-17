@@ -7,6 +7,7 @@ import { Repository } from 'typeorm';
 import { ChatMessage } from './entities/chat.entity';
 // dependencies yangilandi
 
+// real-time notifications implementatsiya qilindi
 @Injectable()
 // kod formatlash va tozalash
 export class ChatService {
