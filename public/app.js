@@ -2,6 +2,7 @@
 const socket = io("https://online-chat2-production.up.railway.app/");
 // database connection muammosi hal qilindi
 
+// caching mexanizmi qo'shildi
 let name = prompt("Ismingizni kiriting");
 let password;
 // database querylarni optimallashtirish
