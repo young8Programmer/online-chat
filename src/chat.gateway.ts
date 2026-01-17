@@ -5,6 +5,7 @@ import { Server, Socket } from 'socket.io';
 import { WebSocketGateway, SubscribeMessage, MessageBody, ConnectedSocket, OnGatewayConnection, OnGatewayDisconnect } from '@nestjs/websockets';
 // README faylini yangilash
 // admin dashboard yaratildi
+// component testlari yaratildi
 // kod formatlash va tozalash
 // error handling yaxshilandi
 // database migrations yaratildi
