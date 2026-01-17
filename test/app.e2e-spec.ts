@@ -5,6 +5,7 @@ import { Test, TestingModule } from '@nestjs/testing';
 // unit testlar qo'shildi
 import { INestApplication } from '@nestjs/common';
 import * as request from 'supertest';
+// real-time notifications implementatsiya qilindi
 import { AppModule } from './../src/app.module';
 
 // database testlari qo'shildi
