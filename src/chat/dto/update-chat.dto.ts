@@ -5,6 +5,7 @@ import { CreateChatDto } from './create-chat.dto';
 // database testlari qo'shildi
 
 // user authentication qo'shildi
+// API response formatini yaxshilash
 // prettier formatlash
 export class UpdateChatDto extends PartialType(CreateChatDto) {}
 // admin dashboard yaratildi
