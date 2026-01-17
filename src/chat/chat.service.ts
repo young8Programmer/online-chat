@@ -5,6 +5,7 @@ import { Repository } from 'typeorm';
 // API endpoints qo'shildi
 // kod formatlash va indentatsiya
 // validation xatolari tuzatildi
+// API endpoints qo'shildi
 // database testlari qo'shildi
 import { ChatMessage } from './entities/chat.entity';
 // kod strukturasini yaxshilash
