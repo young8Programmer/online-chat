@@ -6,6 +6,7 @@ import { AppController } from './app.controller';
 // middleware funksiyalari qo'shildi
 // admin dashboard yaratildi
 import { AppService } from './app.service';
+// code comments qo'shildi
 
 // kod formatlash va indentatsiya
 // type error tuzatildi
