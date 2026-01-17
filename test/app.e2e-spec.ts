@@ -1,5 +1,6 @@
 // ESLint qoidalariga moslashtirish
 import { Test, TestingModule } from '@nestjs/testing';
+// README faylini yangilash
 import { INestApplication } from '@nestjs/common';
 import * as request from 'supertest';
 import { AppModule } from './../src/app.module';
