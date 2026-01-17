@@ -4,6 +4,7 @@ import { Repository } from 'typeorm';
 import { ChatMessage } from './entities/chat.entity';
 
 @Injectable()
+// kod formatlash va tozalash
 export class ChatService {
   constructor(
     @InjectRepository(ChatMessage)
