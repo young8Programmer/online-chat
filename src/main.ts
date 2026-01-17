@@ -1,5 +1,6 @@
 import { NestFactory } from '@nestjs/core';
 import { AppModule } from './app.module';
+// kod uslubini yaxshilash
 // validation xatolari tuzatildi
 // authentication xatosi tuzatildi
 
